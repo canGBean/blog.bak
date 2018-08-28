@@ -150,7 +150,12 @@ links_layout: block
 #links_layout: inline
 links:
   #Title: http://example.com/
-  原cnblog: https://www.cnblogs.com/GYoungBean/
+  我的cnblog: https://www.cnblogs.com/GYoungBean/
+  dbanotes: http://dbanotes.net/
+  纯洁的微笑: http://www.ityouknow.com/
+  廖雪峰老师: https://www.liaoxuefeng.com/
+  阿里中间件: http://jm.taobao.org/
+  你假笨: http://lovestblog.cn/
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
