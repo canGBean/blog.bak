@@ -358,7 +358,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 9c854b59fc469bf3c8636c96d36df5d5
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -570,7 +570,7 @@ busuanzi_count:
 
 
 # Tencent analytics ID
-# tencent_analytics:
+tencent_analytics: 66005861
 
 # Tencent MTA ID
 # tencent_mta:
