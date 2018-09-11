@@ -24,3 +24,5 @@ comments: false
 * 看书  旅行 健身
 * 游戏  美剧 睡觉
 
+## 联系我
+Email: atmazy@163.com
